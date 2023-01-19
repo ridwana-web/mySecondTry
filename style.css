@@ -1,0 +1,56 @@
+body{
+    background-color: aliceblue;
+    background-image: url(https://thumbs.dreamstime.com/b/abstract-autumn-background-beautiful-leaves-texture-34325133.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+.formClass{
+    background-color: cornsilk;
+    text-align: left;
+    width: 500px;
+    margin-left: 30%;
+    padding: 30px;
+}
+
+#firstna
+mikias wondwossen1:27 PM
+#firstname{
+    width: 100%;
+    height: 30px;
+}
+
+#lastname{
+    width: 100%;
+    height: 30px;
+}
+
+#refId{
+    width: 100%;
+    height: 30px;
+}
+
+#comments{
+    width: 100%;
+    height: 70px;
+}
+
+#submit{
+    height: 40px;
+    width: 100%;
+    background-color: darkgreyss;
+}
+
+#email{
+    width: 100%;
+    height: 30px;
+}
+wtg-xfmu-ihd
